@@ -1,6 +1,12 @@
 # Al3X
 Pypi Library
 
+# Key for use
+
+```
+FzgnTlMaMgRMWz4ANExbPmBwGQ4=
+```
+
 # Project Link
 https://pypi.org/project/Al3X/
 
